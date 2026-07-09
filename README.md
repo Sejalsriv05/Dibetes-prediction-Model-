@@ -1,6 +1,4 @@
-To create a presentable README for your GitHub project based on the machine learning diabetes prediction model, here's a structured outline you can follow:
 
----
 
 # Diabetes Prediction Model
 
